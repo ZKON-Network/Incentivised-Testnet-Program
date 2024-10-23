@@ -1,4 +1,4 @@
-![Render - Incentivised Testnet Program](https://github.com/user-attachments/assets/1164119d-522d-4756-a6ed-bc784e1070cb)
+![Render - Incentivised Testnet Program](https://github.com/user-attachments/assets/d7b050e5-c447-4a97-ab75-1a943f8343e2)
 
 # Incentivised Testnet Program
 
