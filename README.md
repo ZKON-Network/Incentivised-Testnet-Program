@@ -1,3 +1,5 @@
+![Render - Incentivised Testnet Program](https://github.com/user-attachments/assets/1164119d-522d-4756-a6ed-bc784e1070cb)
+
 # Incentivised Testnet Program
 
 We are inviting **zkApps** to integrate with our ZKON oracle and participate in our Incentivised Testnet Program. Below are the key details:
@@ -10,6 +12,17 @@ We are inviting **zkApps** to integrate with our ZKON oracle and participate in 
 - 🛠️ **Eligibility**: zkApps that successfully integrate ZKON's oracle between now and the deadline are eligible for the airdrop.
 
 ---
+### 📄 Documentation
+
+<div align="center">
+
+| Repository                               | Description                                       |
+|------------------------------------------|---------------------------------------------------|
+| [zkTLS Mina Oracle Integration](https://github.com/ZKON-Network/zkTLS-Mina-Oracle)                  | ZKON Oracle to enable on-chain zkTLS transactions.|
+| [zkTLS Mina zkApp](https://github.com/ZKON-Network/zkTLS-Mina-zkApp)             | zkApp for enabling zkTLS on the Mina blockchain.   |
+| [zkTLS Offchain SDK](https://github.com/ZKON-Network/zkTLS-Offchain-SDK)           | TypeScript SDK to run zkTLS requests. |
+
+</div>
 
 ### Need Help or Support?
 
