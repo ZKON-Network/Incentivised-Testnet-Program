@@ -2,7 +2,7 @@
 
 # Incentivised Testnet Program
 
-We are inviting **zkApps and developers** to integrate with our ZKON oracle and participate in our Incentivised Testnet Program. Below are the key details:
+We are inviting **zkApps and developers** to integrate with our zkTLS oracle and participate in our Incentivised Testnet Program. Below are the key details:
 
 ## Program Details:
 
