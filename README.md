@@ -1,4 +1,4 @@
-![Render - Incentivised Testnet Program](https://github.com/user-attachments/assets/d7b050e5-c447-4a97-ab75-1a943f8343e2)
+![ZKon x ITP](https://github.com/user-attachments/assets/f27290b5-5f56-4708-9d2d-57bc8c5fed8b)
 
 # Incentivised Testnet Program
 
