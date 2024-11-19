@@ -2,16 +2,20 @@
 
 # Incentivised Testnet Program
 
-We are inviting **zkApps and developers** to integrate with our zkTLS oracle and participate in our Incentivised Testnet Program. Below are the key details:
+We are inviting **zkApps and developers** to integrate with our zkTLS oracle and participate in our Incentivised Testnet Program. Below are the updated details:
 
 ## Program Details:
 
-- 📅 **Timeline**: The integration deadline is **December 15, 2024**.
-- 🎁 **Reward**: An airdrop of **0.5% of the ZKON token total supply** will be distributed among eligible participants.
+- 📅 **Timeline**: The integration period covers **the entirety of the testnet phase**.
+- 🎁 **Reward**: An airdrop of **0.5% of the ZKON token total supply** will be distributed among eligible participants:
+  - **30%** will be allocated to testnet participants.
+  - **70%** will be reserved for projects that successfully integrate into the mainnet.
   - 🔒 Vesting and locking terms may apply.
-- 🛠️ **Eligibility**: zkApps that successfully integrate ZKON's oracle between now and the deadline are eligible for the airdrop.
+
+- 🛠️ **Eligibility**: zkApps that successfully integrate ZKON's oracle in either testnet or mainnet, following the program guidelines, will be eligible for the respective airdrop portion.
 
 ---
+
 ### 📄 Documentation
 
 <div align="center">
