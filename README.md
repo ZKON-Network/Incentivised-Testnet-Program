@@ -1,4 +1,4 @@
-![ZKon x ITP](https://github.com/user-attachments/assets/90e7f5f0-c724-42e6-adcf-d25c048057c0)
+![image](https://github.com/user-attachments/assets/c83b7cd8-4e6f-46b2-a5fc-144d8e827450)
 
 # Incentivised Testnet Program
 
