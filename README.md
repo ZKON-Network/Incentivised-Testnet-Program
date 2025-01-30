@@ -6,7 +6,7 @@ We are inviting **zkApps and developers** to integrate with **TrueData zkOracle*
 
 ## Program Details:
 
-- 📅 **Timeline**: The integration period covers **the entirety of the testnet phase**.
+- 📅 **Timeline**: The integration period spans **the entire testnet phase and the early stages of the mainnet rollout. The team will communicate the final timeline to participants as it becomes available.**
 - 🎁 **Reward**: An airdrop of **0.5% of the ZKON token total supply** will be distributed among eligible participants:
   - **30%** will be allocated to testnet participants.
   - **70%** will be reserved for projects that successfully integrate into the mainnet.
