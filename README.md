@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c83b7cd8-4e6f-46b2-a5fc-144d8e827450)
+![image](https://github.com/user-attachments/assets/683f91b8-1878-4ff4-8080-43344ee27c94)
 
 # Incentivised Testnet Program
 
