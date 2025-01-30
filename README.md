@@ -2,7 +2,7 @@
 
 # Incentivised Testnet Program
 
-We are inviting **zkApps and developers** to integrate with our zkTLS oracle and participate in our Incentivised Testnet Program. Below are the updated details:
+We are inviting **zkApps and developers** to integrate with **TrueData zkOracle** and participate in our **Incentivised Testnet Program**. Below are the updated details:
 
 ## Program Details:
 
@@ -12,7 +12,7 @@ We are inviting **zkApps and developers** to integrate with our zkTLS oracle and
   - **70%** will be reserved for projects that successfully integrate into the mainnet.
   - 🔒 Vesting and locking terms may apply.
 
-- 🛠️ **Eligibility**: zkApps that successfully integrate ZKON's oracle in either testnet or mainnet, following the program guidelines, will be eligible for the respective airdrop portion.
+- 🛠️ **Eligibility**: zkApps that successfully integrate **TrueData zkOracle and zkTLS** in either testnet or mainnet, following the program guidelines, will be eligible for the respective airdrop portion.
 
 ---
 
@@ -22,9 +22,9 @@ We are inviting **zkApps and developers** to integrate with our zkTLS oracle and
 
 | Repository                               | Description                                       |
 |------------------------------------------|---------------------------------------------------|
-| [zkTLS Mina Oracle Integration](https://github.com/ZKON-Network/zkTLS-Mina-Oracle)                  | ZKON Oracle to enable on-chain zkTLS transactions.|
-| [zkTLS Mina zkApp](https://github.com/ZKON-Network/zkTLS-Mina-zkApp)             | zkApp for enabling zkTLS on the Mina blockchain.   |
-| [zkTLS Offchain SDK](https://github.com/ZKON-Network/zkTLS-Offchain-SDK)           | TypeScript SDK to run zkTLS requests. |
+| [TrueData zkOracle - Mina Integration](https://github.com/ZKON-Network/zkTLS-Mina-Oracle)                  | TrueData zkOracle for on-chain **zkTLS** transactions. |
+| [Mina zkApp](https://github.com/ZKON-Network/zkTLS-Mina-zkApp)             | zkApp enabling **zkTLS-based** verifiable transactions on Mina.   |
+| [TrueData SDK](https://github.com/ZKON-Network/zkTLS-Offchain-SDK)           | TypeScript SDK to run verifiable **zkTLS** requests. |
 
 </div>
 
